@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "195514242088",
+    "firebase_url": "https://androidfoodprojectv2.firebaseio.com",
+    "project_id": "androidfoodprojectv2",
+    "storage_bucket": "androidfoodprojectv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:195514242088:android:b1ae3a57faec6039",
+        "android_client_info": {
+          "package_name": "com.example.ciber.android_foodprojectv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "195514242088-m28d6sf6f35vk70j6f4hnkco5amqgovi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ciber.android_foodprojectv2",
+            "certificate_hash": "9298b5883bd20df37e04300ced686af1fb161ed6"
+          }
+        },
+        {
+          "client_id": "195514242088-661h1fgossa1kov1jjg01e4g7tb4p56k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4ARYU-Rd8TRm-LSsMMgPN-ipwMVlwvHY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "195514242088-661h1fgossa1kov1jjg01e4g7tb4p56k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
